@@ -17,11 +17,7 @@ class UI(QMainWindow):
         self.btn2.clicked.connect(self.choose_a_file)
     def choose_a_color(self):
         rgb = QColorDialog().getColor(title='choose a color here !')
-        # print('you choose '+ str(rgb))
-        self.bt = QPushButton('abdellah bechraire',self)
-        self.bt.resize(80,80)
-        self.bt.move(100,100)
-        self.bt.setStyleSheet(f'background-color:red;')
+        print('you choose '+ str(rgb))
         pass
     def choose_a_file(self):
         filename = fd.askopenfilename()
