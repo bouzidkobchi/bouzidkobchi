@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on some Asp.NEt Core projects Like <a href="https://github.com/bouzidkobchi/FastKart-Project">FastKart</a> and <a href="https://github.com/bouzidkobchi/Abdellah-Portfolio-Api">My Client Portfolio</a>
+- 🔭 I’m currently working on some Asp.Net Core projects Like <a href="https://github.com/bouzidkobchi/FastKart-Project">FastKart</a> and <a href="https://github.com/bouzidkobchi/Abdellah-Portfolio-Api">My Client Portfolio</a>
 - 🌱 I’m currently learning .Net Technologies and Frameworks
 - 👯 I’m looking to collaborate on InternShip
 <!--
