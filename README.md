@@ -1,5 +1,3 @@
-![9f56d629403431 56bf41038c8b0](https://github.com/bouzidkobchi/bouzidkobchi/assets/106019236/17a2db8f-b219-45f6-b44d-dfc3d5ea9169)
-
 <h1 align="center">Hi 👋, I'm Bouzid Kobchi</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
