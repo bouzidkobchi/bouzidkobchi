@@ -1,7 +1,10 @@
+![9f56d629403431 56bf41038c8b0](https://github.com/bouzidkobchi/bouzidkobchi/assets/106019236/17a2db8f-b219-45f6-b44d-dfc3d5ea9169)
+
 <h1 align="center">Hi 👋, I'm Bouzid Kobchi</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouzidkobchi&label=Profile%20views&color=0e75b6&style=flat" alt="bouzidkobchi" /> </p>
+
 
 - 🔭 I’m currently working on **some projects**
 
@@ -14,6 +17,7 @@
 - 📫 How to reach me **bouzidkobchi1096@gmail.com**
 
 - ⚡ Fun fact **I think i can give valuable suggestions to enhance your software**
+
 
 <br>
 
@@ -31,3 +35,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bouzidkobchi&show_icons=true&locale=en&layout=compact" alt="bouzidkobchi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bouzidkobchi&show_icons=true&locale=en" alt="bouzidkobchi" /></p>
+
+
+
