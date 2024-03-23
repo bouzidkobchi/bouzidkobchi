@@ -16,6 +16,10 @@
 
 - ⚡ Fun fact **I think i can give valuable suggestions to enhance your software**
 
+<br/>
+
+**My Leetcode Problem Solving Progress :**
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bouzid_kobchi?theme=dark&ext=heatmap)
 
 <br>
