@@ -16,6 +16,7 @@
 
 - ⚡ Fun fact **I think i can give valuable suggestions to enhance your software**
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/bouzid_kobchi?theme=dark&ext=heatmap)
 
 <br>
 
@@ -33,6 +34,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bouzidkobchi&show_icons=true&locale=en&layout=compact" alt="bouzidkobchi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bouzidkobchi&show_icons=true&locale=en" alt="bouzidkobchi" /></p>
-
-
 
