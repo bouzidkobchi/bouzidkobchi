@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bouzidkobchi1096@gmail.com**
 
-- ⚡ Fun fact **I think i can give valuable suggestions to enhance your software**
+- ⚡ **I think i can give valuable suggestions to enhance your software**
 
 <hr/>
 
